@@ -11,11 +11,6 @@ export const metadata: Metadata = {
   description: "creada por Ariel Zarate 😀",
 };
 
-export const head = {
-  href: "public/huella.png",
-  type: "image/png",
-};
-
 export default function RootLayout({
   children,
 }: Readonly<{
