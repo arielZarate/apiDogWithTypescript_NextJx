@@ -28,7 +28,8 @@
     ".next/types/**/*.ts",
     "src/services/dog_services.js",
     "src/services/dog_services.js",
-    "src/components/DogList.tsx"
+    "src/components/DogList.tsx",
+    "src/app/dog/page.jsx"
   ],
   "exclude": ["node_modules"]
 }

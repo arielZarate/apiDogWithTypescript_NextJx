@@ -346,3 +346,13 @@ Puedes encontrar la página de referencia de la API Dog en el siguiente enlace:
 [API Dog](https://www.thedogapi.com/)
 
 Asegúrate de visitar esta página para obtener más información sobre cómo utilizar la API Dog en tu proyecto.
+
+# Deploy
+
+Dado a que este proyecto solo se consume de la api de Dog y esta creado en nextjs que es un producto creado por la empresa vercel , subi el proyecto en el mismo hosting de vercel 👻 .
+
+- existe mucha facilidad de poder deployar cualquier proyecto en estos hosting , hasta te genera un dominio personalizable 💯
+
+el dominio del proyecto creado es
+
+[https://api-dog-with-typescript-next-jx.vercel.app/](https://api-dog-with-typescript-next-jx.vercel.app/)
